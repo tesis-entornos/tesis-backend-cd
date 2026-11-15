@@ -1,7 +1,6 @@
 {
   "repo": "582621604637.dkr.ecr.us-east-2.amazonaws.com/tesis-backend",
-  "commit": "e1ab634e15063b1f43719e8b4080335b1210233d",
-  "tag": "e1ab634",
-  "digest": "sha256:6ba7cc274793b03b25dd333dc60720a30df5e8f8b156fbc3efcf3841d4d2a66c",
-  "rama": "release/c21-1"
+  "commit": "afc16b1d85fc0e87e0998d2e69a2109520ed9719",
+  "tag": "afc16b1",
+  "digest": "sha256:eb07d223d0f4133d7bdd18f932b39d2c399b716cbaab19d3924c619b5a38a99a"
 }
